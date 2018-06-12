@@ -1,0 +1,23 @@
+{
+  "name": "encrypteddb",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x77official/encrypteddb.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "0x77",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/0x77official/encrypteddb/issues"
+  },
+  "homepage": "https://github.com/0x77official/encrypteddb#readme"
+}
