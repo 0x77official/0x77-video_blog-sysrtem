@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/0x77official/encrypteddb/issues"
   },
-  "homepage": "https://github.com/0x77official/encrypteddb#readme"
+  "homepage": "https://github.com/0x77official/encrypteddb#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10"
+  }
 }
